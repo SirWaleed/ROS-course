@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/waleed/catkin_ws/install/setup.sh
